@@ -1,0 +1,1 @@
+blackBox = () => "It's clamped shut!"
