@@ -1,3 +1,3 @@
 ### Not so black box
 
-You have to change the unit test and replace `check` function with `blackbox`.
+I have to reveal a solution because it was pure guessing. I would not figure it out that I should call `JSopenSesame`.

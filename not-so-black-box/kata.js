@@ -1,1 +1,5 @@
-blackBox = () => "It's clamped shut!"
+blackBox();
+
+console.log(blackBox());
+
+JSopenSesame()
