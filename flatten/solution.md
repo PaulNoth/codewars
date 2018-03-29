@@ -1,3 +1,3 @@
 ### flatten()
 
-Loot at the solution.
+Look at the solution.
